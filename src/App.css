@@ -37,7 +37,7 @@ td{
   width: 365px;
   font-size: 30px;
   text-align: right;
-  padding: 0px 10px 0px 0px;
+  padding: 0px 50px 0px 0px;
   color: white;
 }
 
@@ -57,5 +57,6 @@ td{
   }
   table{
     margin-left: 0;
+    width:80%;
   }
 }
